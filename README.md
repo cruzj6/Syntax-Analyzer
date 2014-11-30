@@ -3,7 +3,7 @@ Syntax-Analyzer
 This project analyzes the syntax of a language I created. The user writes the "code" in the input.txt file that is
 included and then runs the program. The program will tell you any errors or anywhere it expected an identifier
 or it will tell you that your syntax is perfect for the language. Below I included the EBNF for how the grammer 
-works for the language and an example of a breakdown of the grammer.
+works for the language and an example of a breakdown of the grammer. The original idea I had for this project was to take that grammar and tell you how you are doing in school and what you could improve. For the sake of time and getting the project in on time it is more simplistic when it is actually run, but it gives an idea of where it could head if I further implemented some of my ideas. The main purpose of the project and assignment was that it analyzes the syntax, which it successfully does, the other ideas and uses of the program were just me having some fun with it.
 
 EBNF:
 Top Level:
